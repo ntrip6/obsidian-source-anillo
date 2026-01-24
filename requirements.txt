@@ -1,5 +1,4 @@
 dash==2.14.2
-jupyter-dash==0.4.2
 plotly>=5.18
 pandas
 geopandas
