@@ -1,0 +1,13 @@
+name: obsidian-map
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - plotly==5.18.0
+      - anywidget==0.9.13
+      - ipywidgets==8.1.2
+      - jupyterlab_widgets==3.0.10
+      - widgetsnbextension==4.0.10
+      - pandas
