@@ -7,11 +7,6 @@ This notebook is intended to provide an analytical notebook for exploring Anillo
 Proceed through the Jupyter Notebook by clicking in the first cell then press Shift-Return to advance through the notebook.
 The map and the plots are interactive.
 
-**⚠️ Note on Dash usage**
-
-This notebook uses `jupyter_dash` to enable Dash interactivity
-inside Binder/Jupyter environments.
-While `jupyter_dash` is officially deprecated, it remains the only
-reliable way to run Dash-based interactive visualizations inline
-in Binder as of 2026.
-This choice is intentional for archival reproducibility.
+The notebook and accompanying data are archived in eScholarship at
+[# XRF Analysis of samples from the Anillo Obsidian Source near Cotahuasi, Arequipa, Peru](https://escholarship.org/uc/item/6vb1790z)
+https://escholarship.org/uc/item/6vb1790z
