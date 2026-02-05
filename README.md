@@ -8,5 +8,5 @@ Proceed through the Jupyter Notebook by clicking in the first cell then press Sh
 The map and the plots are interactive.
 
 The notebook and accompanying data are archived in eScholarship at
-[# XRF Analysis of samples from the Anillo Obsidian Source near Cotahuasi, Arequipa, Peru](https://escholarship.org/uc/item/6vb1790z)
+[XRF Analysis of samples from the Anillo Obsidian Source near Cotahuasi, Arequipa, Peru](https://escholarship.org/uc/item/6vb1790z)
 https://escholarship.org/uc/item/6vb1790z
