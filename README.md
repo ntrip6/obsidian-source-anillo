@@ -1,8 +1,8 @@
 # XRF Geochemistry Notebook for the Anillo Obsidian Source (Arequipa, Peru)
 Click "Launch Binder" to run this notebook in the browser.
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://2i2c.mybinder.org/v2/gh/arf-berkeley/obsidian-source-anillo.git/HEAD?urlpath=%2Fdoc%2Ftree%2Fnotebooks%2Fobsidian-geochem.ipynb)
-It will take 10 seconds or more to launch.
+[![Binder](http://mybinder.org/badge_logo.svg)](https://2i2c.mybinder.org/v2/gh/arf-berkeley/obsidian-source-anillo.git/HEAD?urlpath=%2Fdoc%2Ftree%2Fnotebooks%2Fobsidian-geochem.ipynb)  
+Wait for 10 or more seconds for launch.
 
 ## Notes
 This notebook is intended to provide an analytical notebook for exploring Anillo Obsidian geochemistry and it can be repurposed for use with other geochemical analysis datasets.
