@@ -14,3 +14,11 @@ The notebook and accompanying data are archived in eScholarship at
 [XRF Analysis of samples from the Anillo Obsidian Source near Cotahuasi, Arequipa, Peru](https://escholarship.org/uc/item/6vb1790z)
 
 https://escholarship.org/uc/item/6vb1790z
+
+If you'd like to run this Jupyter Notebook locally:  
+```bash
+git clone https://github.com/arf-berkeley/obsidian-source-anillo.git
+cd obsidian-source-anillo
+conda env create -f .binder/environment.yml
+conda activate obsidian-geochem
+jupyter notebook notebooks/obsidian-geochem.ipynb
